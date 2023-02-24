@@ -1,0 +1,5 @@
+u,11,5,ask
+u,12,5,ask
+o,buy,6
+u,9,0,bid
+q,best_ask
